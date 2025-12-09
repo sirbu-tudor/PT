@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "https://radar-chart-project-1067624205124.us-west1.run.app/"
+  to = "https://performance-tracker.bolt.host/"
   status = 200
   force = true
