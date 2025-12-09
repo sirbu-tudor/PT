@@ -1,5 +1,6 @@
 [[redirects]]
   from = "/*"
-  to = "https://performance-tracker.bolt.host/"
+  to = "https://performance-tracker.bolt.host/:splat"
   status = 200
   force = true
+  headers = {X-Forwarded-Proto = "https"}
